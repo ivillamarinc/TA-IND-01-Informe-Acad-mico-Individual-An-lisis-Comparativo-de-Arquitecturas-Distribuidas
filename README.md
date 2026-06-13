@@ -1,0 +1,1 @@
+# TA-IND-01-Informe-Acad-mico-Individual-An-lisis-Comparativo-de-Arquitecturas-Distribuidas
